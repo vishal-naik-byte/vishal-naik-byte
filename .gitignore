@@ -1,0 +1,11 @@
+/LICENSE.txt
+/README.portable
+/bin/
+/cmd/
+/dev/
+/etc/
+/git-bash.exe
+/git-cmd.exe
+/mingw64/
+/post-install.bat
+/usr/
