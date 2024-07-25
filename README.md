@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vishal</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vishal Naik</h1>
 <h3 align="center">I'm a passionate Cyber Security Fresher from India.</h3>
 
 
@@ -32,7 +32,7 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/?size=100&id=12773&format=png&color=000000"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/?size=100&id=dfeccCSVIHao&format=png&color=000000"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=eIBBrLR4rCnc&format=png&color=000000"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=LeS5bIxWv2Kc&format=png&color=000000" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=LeS5bIxWv2Kc&format=png&color=000000" alt="mongodb"/> </a> 
     <!--
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
