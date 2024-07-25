@@ -28,7 +28,7 @@
     -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/?size=100&id=KPnuFuuZwOVX&format=png&color=000000"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=46698&format=png&color=000000"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=46698&format=png&color=000000"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=16205&format=png&color=000000"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/?size=100&id=12773&format=png&color=000000"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/?size=100&id=12773&format=png&color=000000"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=eIBBrLR4rCnc&format=png&color=000000"/> </a>
