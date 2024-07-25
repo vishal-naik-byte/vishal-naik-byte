@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **Cyber Security Projects**
 
 - 🌱 I’m currently learning **Cyber Security.**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **vishalnaik12.vn@gmail.com**
 
-- ⚡ Fun fact **I play with programming and learn new things very often.**
+- ⚡ Fun fact **I play with Cyber Security and learn new things very often.**
 
 ## 🚀 Languages and Tools:
 
