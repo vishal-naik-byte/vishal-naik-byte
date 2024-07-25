@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I play with Cyber Security and learn new things very often.**
 
-## 🚀 Languages and Tools:
+## 🚀 Cybersecurity Concepts:
 
 <p align="left">
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/?size=100&id=SwvDja4ryubi&format=png&color=000000"/> </a> 
