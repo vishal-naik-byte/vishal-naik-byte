@@ -1,4 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://lovepik.com/images/png-security.html" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vishal Naik</h1>
 <h3 align="center">I'm a passionate Cyber Security Fresher from India.</h3>
